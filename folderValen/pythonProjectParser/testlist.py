@@ -3,7 +3,6 @@ mass1.append('b|A')
 mass1.append('c||a1')
 mass1.append('b||a2')
 mass1.append('c|A1')
-mass1.sort()
 table = set(list(mass1))
 mass1 = []
 
