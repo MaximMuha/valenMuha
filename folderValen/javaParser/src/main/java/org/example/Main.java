@@ -29,7 +29,6 @@ public class Main {
         }
         for (String[] el: ansque) {
             System.out.println(el[0]+"\n"+el[1]+"\n");
-            System.out.println();
 
         }
     }
